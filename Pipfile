@@ -7,6 +7,11 @@ name = "pypi"
 numpy = "*"
 nnfs = "*"
 matplotlib = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+notebook = "*"
+ipykernel = "*"
 
 [dev-packages]
 

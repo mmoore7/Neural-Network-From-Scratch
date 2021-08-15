@@ -12,6 +12,8 @@ torchvision = "*"
 torchaudio = "*"
 notebook = "*"
 ipykernel = "*"
+tqdm = "*"
+opencv-python = "*"
 
 [dev-packages]
 
